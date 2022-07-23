@@ -1,0 +1,8 @@
+main.c:163:1:__io_putchar	16	static
+main.c:171:6:Uart_Tx_Byte	0	static
+main.c:347:6:Uart_Tx_Byte2	0	static
+main.c:524:6:Uart_Tx_Byte3	0	static
+main.c:701:6:HAL_TIM_PeriodElapsedCallback	32	static
+main.c:1227:6:SystemClock_Config	96	static,ignoring_inline_asm
+main.c:1030:5:main	88	static,ignoring_inline_asm
+main.c:1616:6:Error_Handler	0	static,ignoring_inline_asm
